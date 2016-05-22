@@ -1,0 +1,24 @@
+{
+  "name": "vorpal-ext",
+  "version": "0.0.1",
+  "description": " Command Line Client",
+  "main": "index.js",
+  "author": "Dhanesh",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "vorpal": "^1.5.5",
+    "wordwrap": "^1.0.0"
+  },
+  "devDependencies": {},
+  
+  "keywords": [
+    "vorpal"
+    , "cli"
+  ],
+  "bugs": {
+    "url": ""
+  },
+  "preferGlobal": true,
+  "bin": "./index.js"
+}
