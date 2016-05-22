@@ -1,8 +1,6 @@
-# PHUNT
+# CLI
 
-Product Hunt Command Line Client
-
-[![asciicast](https://asciinema.org/a/33953.png)](https://asciinema.org/a/33953)
+Dhanesh Command Line Client using vorpal.
 
 ## Requirements
 
@@ -11,23 +9,13 @@ Product Hunt Command Line Client
 ## Installation
 
 ```cli
-npm i -g phunt
+npm install -g 
 ```
 
 
 ## Usage
 
 ```cli
-@username => help
+@Dhanesh => help
 ```
 
-
-## Commands
-
-- [x] `me` (Get current user)
-- [ ] `me posts` (See all posts created by current user)
-- [ ] `me products` (See all posts made by by current user)
-- [x] `posts` (Get the tech posts of today)
-- [ ] `posts {category}` Get the posts of today (for given category)
-- [ ] `posts new` (Get all the newest posts)
-  - 
